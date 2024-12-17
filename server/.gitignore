@@ -1,0 +1,32 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.pid.lock
+
+# Node modules
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Environment variables
+.env
+
+# IDE-specific files
+.idea/
+.vscode/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
